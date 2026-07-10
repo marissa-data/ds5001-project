@@ -1,2 +1,3 @@
 # Statistical Analysis of Written Language Across Gothic Literature Eras
+## Author: Marissa Burton
 Compilation of unsupervised machine learning techniques (Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), Sentiment Analysis, etc.) deployed on a corpus of classic gothic literature (e.g., Dr. Jekyll and Mr. Hyde, Dracula, Frankenstein, etc.) with the goal of exploring differing themes of societal fear in these novels from the late 18th century (1790s) to mid-20th century (1950s). Overall findings indicate a shift from life-threatening fears (war, violence, death) in earlier texts to internalized fears (mental and emotional health, interpersonal conflicts) in later texts.
